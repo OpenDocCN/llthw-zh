@@ -7,10 +7,9 @@
 自豪地采用[谷歌翻译](https://translate.google.cn/)
 
 + [在线阅读](https://llthw.apachecn.org)
-+ [在线阅读（Gitee）](https://apachecn.gitee.io/llthw-zh/)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/llthw)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/llthw)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/llthw)
++ [PDF 格式](https://www.gitbook.com/download/pdf/book/wizardforcel/llthw)
++ [EPUB 格式](https://www.gitbook.com/download/epub/book/wizardforcel/llthw)
++ [MOBI 格式](https://www.gitbook.com/download/mobi/book/wizardforcel/llthw)
 + [代码仓库](http://github.com/wizardforcel/llthw-zh)
 
 ## 下载
@@ -20,14 +19,6 @@
 ```
 docker pull apachecn0/llthw-zh
 docker run -tid -p <port>:80 apachecn0/llthw-zh
-# 访问 http://localhost:{port} 查看文档
-```
-
-### PYPI
-
-```
-pip install llthw-zh
-llthw-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
